@@ -72,4 +72,8 @@
 ##이미지 연습
 
 **간식 먹는 피카츄**
+
+**일부 HTML 언어 사용 가능. ~크기 조절 가능~**
+<p align="center"><img src="./pika.png" width="300" height="300"></p>
+
 ![간식 먹는 피카츄 입니다.](./pika.png)
