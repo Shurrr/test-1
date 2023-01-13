@@ -63,5 +63,13 @@
 ##링크
 
 <https://www.github.com/Shurrr>
+
 [내 깃허브](https://www.github.com/Shurrr)
+
 [내 깃허브](https://www.github.com/Shurrr, "부가 설명입니다. 클릭하면 내 깃허브로 이동합니다.")
+
+---
+##이미지 연습
+
+**간식 먹는 피카츄**
+![간식 먹는 피카츄 입니다.](./pika.png)
